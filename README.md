@@ -1,3 +1,5 @@
+Asignatura: Verificación y Validación del Software | Contenedor: php8-docker
+
 PHP 8 docker base image
 
 The project can be mounted using docker:
@@ -15,3 +17,4 @@ The project can be mounted using docker:
   docker-compose stop
 
 :)
+
